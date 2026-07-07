@@ -1,0 +1,6 @@
+{
+  "name": "Valuge Clinical Challenge",
+  "description": "Interactive WebApp for VALUGE dermatological laboratory congress lead capture and gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
